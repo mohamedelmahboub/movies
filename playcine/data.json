@@ -3,11 +3,11 @@
         {
             "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8,9eeade2060b7e4388d57d3957fd5b215,505dc3f16abf4a901b24a9da568b08d0,debe4825fea8b6da7e1becbe4c129ab5,c9de319c0615a73aee7a1551244bd3f3,966ac1788a17d3d696cbf5a99939302a",
             
-            "int_interval" : 2,
-            "activate_ads" : "false",
+            "int_interval" : 3,
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "3e1744a1-a344-461e-adf8-3eb22d76cceb",
-            "network" : "admob",
+            "network" : "fan",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -32,10 +32,10 @@
             "max_int" : "",
             "max_reward" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#827753361612244_840990176955229",
-            "fan_native": "IMG_16_9_APP_INSTALL#827753361612244_840990353621878",
-            "fan_int": "IMG_16_9_APP_INSTALL#827753361612244_840990266955220",
-            "fan_rewarded": "IMG_16_9_APP_INSTALL#827753361612244_840990266955220",
+            "fan_ban": "172532685621607_172533168954892",
+            "fan_native": "172532685621607_172533235621552",
+            "fan_int": "172532685621607_172533188954890",
+            "fan_rewarded": "172532685621607_172913882250154",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
