@@ -37,8 +37,8 @@
             "fan_int": "172532685621607_172533188954890",
             "fan_rewarded": "172532685621607_172913882250154",
             
-            "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
+            "activate_update_app": "true",
+            "update_link": "https://play.google.com/store/apps/details?id=ks.movies.pobreflix",
             "update_ico": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg=s512-rw"
         }
     ],
